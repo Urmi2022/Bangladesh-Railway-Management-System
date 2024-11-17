@@ -10,7 +10,7 @@ Real-time Tracking: It offers real-time tracking of trains, allowing both operat
 
 Maintenance Management: The system tracks the maintenance schedules of trains and infrastructure, ensuring safety and compliance with regulations.
 
-Inventory Management: RMS manages the inventory of spare parts, ensuring that necessary components are available for maintenance and repairs.
+Inventory Management Management: RMS manages the inventory of spare parts, ensuring that necessary components are available for maintenance and repairs.
 
 Reporting and Analytics: It provides analytical tools to generate reports on performance metrics, passenger trends, and operational efficiency.
 
